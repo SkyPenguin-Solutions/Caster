@@ -2,6 +2,8 @@
   <img src="images/DemoCaster.png">
 </p>
 
+# NOTICE: THIS PROJECT IS UNDER DEVELOPMENT AND WILL BE WRITTEN USING THE SKYLINE PROGRAMMING LANGUAGE SOON!
+
 # What is caster 
 
 Caster is a IoT enumeration framework designed to abuse system API's and other forms of endpoints by constantly enumerating and searching for devices on the network. Caster can do many things depending on the device you are trying to enumerate and has many features which make it worth the use like the following below.
